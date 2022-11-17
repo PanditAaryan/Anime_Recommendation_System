@@ -1,0 +1,29 @@
+Slide - 1:
+Title
+
+Slide-2:
+The Agenda
+
+Slide-3:
+What is a Recommendation System
+    1. Content Based    2. Collaborative Filtering Based    3. Hybrid
+
+Slide-4:
+Project Flow
+    Data --> Phase1: Pre-processing --> Phase2: Model --> Phase3: Webapp --> Phase4: Deployment
+
+Slide-5: 
+Phase1: Data Processing
+    
+
+Slide-6:
+Phase2: Data Vectorization
+
+Slide-7:
+Phase 3.1: Main function
+
+Slide-8:
+Phase 3.2: Streamlit
+
+Slide-9:
+Phase 4: Deployment
