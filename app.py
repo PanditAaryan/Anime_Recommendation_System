@@ -39,7 +39,7 @@ with st.container():
     st.subheader("Hi! I am Aaryan Pandit :wave:")
     st.write("This is my Seminar Project for the session 2022-2023, Semester - V")
     st.title('Anime Recommendation System')
-    st.write('[Placeholder for Source Code >](https://github.com/PanditAaryan/Anime_Recommendation_System)')
+    st.write('[Source Code >](https://github.com/PanditAaryan/Anime_Recommendation_System)')
 
 
 # -- Section 1
